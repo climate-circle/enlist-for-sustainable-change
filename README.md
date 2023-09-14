@@ -130,4 +130,5 @@ To the extent possible under law, [David Dao](http://daviddao.org/) has waived a
 
 
 # Inspired by
+- https://github.com/protontypes/open-sustainable-technology
 - https://github.com/daviddao/code-against-climate-change

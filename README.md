@@ -4,6 +4,26 @@ Yet another curated list of sustainable projects, initiatives and software proje
 - https://tag-env-sustainability.cncf.io/landscape/
 - https://github.com/cncf/tag-env-sustainability
 
+# Cleanup
+
+## Knowledge
+- local SDG Goals & Tracking (German communities): https://sdg-portal.de/de/sdg-indikatoren
+- (German) Tips & resources for everyday life: https://utopia.de/
+- rethinking economy: 
+  * https://doughnuteconomics.org/about-doughnut-economics
+  * https://www.degrowth.info/en/
+  * https://stiftung-verantwortungseigentum.de/
+  * https://web.ecogood.org/de/
+- Transformational Skills: https://www.innerdevelopmentgoals.org/
+
+## Action
+- Campaigns for inspiring and contributing: https://sdgactioncampaign.org/initiatives/
+- Project Platform: https://wechange.de/
+- Project Platform: https://www.reflecta.network/
+- Publicly available fruits (only German, but worldwide map): https://mundraub.org/
+- Tools, Webinars, Knowledge-Transfer for companies: https://unglobalcompact.org
+- Teaching IT: https://hacker-school.de/
+
 # Code against Climate Change
 🔥🌏 **Code against Climate Change** is a curated list of tech projects against climate change - hoping to inspire disruptive technological climate action!
 
